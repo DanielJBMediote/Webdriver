@@ -7,7 +7,7 @@
     "driver": "node src/index.js"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.30.2",
     "selenium-webdriver": "^4.0.0-alpha.5"
   }
 }
